@@ -6,6 +6,12 @@
 	height: 108px
 }
 
+<h1> {
+	text-allign: center
+		
+}
+		
+
 .jumbotron {
 	background: url(../images/bg.jpeg) no-repeat;
 	background-size: cover;
