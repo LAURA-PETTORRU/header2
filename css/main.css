@@ -10,7 +10,10 @@
 	text-allign: center
 		
 }
-		
+
+<h4> {
+	text-allign: center
+		}
 
 .jumbotron {
 	background: url(../images/bg.jpeg) no-repeat;
