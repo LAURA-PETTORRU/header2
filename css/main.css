@@ -15,12 +15,15 @@ h4 {
 	background: url(../images/bg.jpeg) no-repeat;
 	background-size: cover;
 	min-height: 800px;
+	color: #fff;
 }
 .laura-form {
 	padding: 10px 200px 10px 200px;
+	color: #fff;
 }
 .laura-form textarea {
-	height: 108px
+	height: 108px;
+	color: #fff;
 }
 .navbar-brand {
 	background: url(../images/logo.png) no-repeat;
