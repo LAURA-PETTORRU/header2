@@ -14,8 +14,8 @@ h4 {
 .jumbotron {
 	background: url(../images/bg.jpeg) no-repeat;
 	background-size: cover;
-	min-height: 800px;
-	color: #fff;
+	max-height: 530px;
+	color: #000;
 }
 .laura-form {
 	padding: 10px 200px 10px 200px;
